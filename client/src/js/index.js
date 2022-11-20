@@ -2,6 +2,12 @@ import { Workbox } from 'workbox-window';
 import Editor from './editor';
 import './database';
 import '../css/style.css';
+import Logo from '../images/logo.png';
+
+// window.addEventListener('load', function () {
+//   console.log("Load Listener: Engaged")
+//   document.getElementById('logo').src = Logo;
+// })
 
 const main = document.querySelector('#main');
 main.innerHTML = '';
@@ -23,7 +29,7 @@ if (typeof editor === 'undefined') {
   loadSpinner();
 }
 
-// Check if service workers are supported
+
 if ('serviceWorker' in navigator) {
   // register workbox service worker
   const workboxSW = new Workbox('/src-sw.js');
