@@ -2,11 +2,13 @@
 
 **Text Editor** is a single-page application where users are able to type their thoughts, to-do list, or random facts in a browser online or offline. 
 
-
+<p>
 <div align="center">
     <img src="./client/dist/Text-Editor-Landing-Page.png" alt="Screenshot of Text Editor Landing Page" width="80%">
   </a>
 </div>
+</p>
+
 
   ## Table of contents
   - [Top](#)
