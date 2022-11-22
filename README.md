@@ -22,19 +22,19 @@ Customize your text editor by downloading the app today!
 * Click the [Link](https://ancient-brushlands-24731.herokuapp.com/) to access the Text Editor App
 * Navigate to the top right of your browser and click `Install`
 <div align="center">
-    <img src="./client/dist/Text-Editor-Install-Pop-Up.png" alt="Screenshot of Text Editor Install application" width="40%">
+    <img src="./client/src/images/Text-Editor-Install-Pop-Up.png" alt="Screenshot of Text Editor Install application" width="40%">
   </a>
 </div>
 
 * After installation, your application will appear just like below!
 <div align="center">
-    <img src="./client/dist/Text-Editor-App-Installed.png" alt="Screenshot of Text Editor Installed application" width="40%">
+    <img src="./client/src/images/Text-Editor-App-Installed.png" alt="Screenshot of Text Editor Installed application" width="40%">
   </a>
 </div>
 
 Please Note, you can also download the application by locating the below further icon in your url text area.
 <div align="center">
-    <img src="./client/dist/Text-Editor-Icon.png" alt="Screenshot of Text Editor Install Icon" width="50%">
+    <img src="./client/src/images/Text-Editor-Icon.png" alt="Screenshot of Text Editor Install Icon" width="50%">
   </a>
 </div>
 
