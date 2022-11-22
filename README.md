@@ -4,7 +4,7 @@
 
 
 <div align="center">
-    <img src="client/dist/Text Editor Landing Page.png" alt="Screenshot of Text Editor Landing Page" width="80%">
+    <img src="./dist/Text Editor Landing Page.png" alt="Screenshot of Text Editor Landing Page" width="80%">
   </a>
 </div>
 
